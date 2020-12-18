@@ -1,0 +1,40 @@
+  
+body
+{
+    background-image: url("bg.jpg");
+    background-size: cover;
+    
+}
+.home_top {
+	background: url(home.jpg) no-repeat;
+	background-size: 1400px 650px;
+	height: 100vh;
+	position:relative;
+	
+}
+
+.home_top_text {
+	color:white;
+    position: absolute;
+    text-align: center;
+    
+}
+.home_top_text h1{
+    top: 50%;
+	left: 40%;
+    font-size: 70px;
+    
+}
+.home_top_text p{
+    top: 50%;
+	left: 40%;
+    font-size: 80px;
+}
+.bod{
+    border:black solid 1px;
+}
+
+img{
+    border-radius: 50%;
+    border:white solid 2px;
+ }
